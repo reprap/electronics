@@ -1,0 +1,25 @@
+Source files:
+
+opto-endstop.sch Eagle schematic
+opto-endstop.brd Eagle board layout
+
+
+Gerber files:
+
+opto-endstop.drl Drill rack data
+opto-endstop.drd Excellon drill description
+opto-endstop.dri Excellon drill tool description
+opto-endstop.cmp Component side data
+opto-endstop.sol Solder side data
+opto-endstop.plc Component side silk screen data
+opto-endstop.stc Component side solder stop mask data
+opto-endstop.sts Solder side solder stop mask data
+opto-endstop.gpi Gerber photoplotter information data
+
+Ancilliary files:
+
+opto-endstop.xls Parts list
+opto-endstop.csv Parts list as comma-separated variables
+opto-endstop.pov 3D POVray rendering file
+opto-endstop.pro Eagle autorouter output
+readme           This file

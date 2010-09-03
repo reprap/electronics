@@ -1,0 +1,9 @@
+Partlist exported from /home/ensab/workspace/mendel/electronics/opto-endstop/opto-endstop.sch at 07/12/2009 23:53
+
+Part;Value;Device;Package;Description;            
+LED1;;LEDCHIPLED_1206;CHIPLED_1206;LED;           
+R1;10K;R-US_R1206;R1206;RESISTOR, American symbol;
+R2;220;R-US_R1206;R1206;RESISTOR, American symbol;
+R3;1K;R-US_R1206;R1206;RESISTOR, American symbol; 
+U$1;H21LOB;H21LOB;H21;;                           
+U$2;CDROM;CDROM;70553-04;;                        
