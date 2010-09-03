@@ -1,0 +1,25 @@
+Source files:
+
+stepper-motor-driver.sch Eagle schematic
+stepper-motor-driver.brd Eagle board layout
+
+
+Gerber files:
+
+stepper-motor-driver.drl Drill rack data
+stepper-motor-driver.drd Excellon drill description
+stepper-motor-driver.dri Excellon drill tool description
+stepper-motor-driver.cmp Component side data
+stepper-motor-driver.sol Solder side data
+stepper-motor-driver.plc Component side silk screen data
+stepper-motor-driver.stc Component side solder stop mask data
+stepper-motor-driver.sts Solder side solder stop mask data
+stepper-motor-driver.gpi Gerber photoplotter information data
+
+Ancilliary files:
+
+stepper-motor-driver.xls Parts list
+stepper-motor-driver.csv Parts list as comma-separated variables
+stepper-motor-driver.pov 3D POVray rendering file
+stepper-motor-driver.pro Eagle autorouter output
+readme                   This file
